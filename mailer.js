@@ -8,6 +8,19 @@ const transporter = SMTP_CONFIGURED
       port: Number(process.env.SMTP_PORT || 587),
       secure: Number(process.env.SMTP_PORT) === 465,
       auth: { user: process.env.SMTP_USER, pass: process.env.SMTP_PASS },
+      // Render's free tier blocks outbound SMTP ports entirely, so this
+      // connection can never succeed there -- without an explicit timeout,
+      // nodemailer/Node fall back to a long OS-level default (often 60s+)
+      // before giving up, which is why signup felt slow. Since the
+      // connection is guaranteed to fail on a blocked port either way,
+      // failing fast costs nothing and just gets EXPOSE_DEV_CODE's
+      // on-screen fallback showing sooner. If you move off Render's free
+      // tier (or switch to a working SMTP host), raise this back up --
+      // e.g. 10000 (10s) -- so real, slightly-slow connections aren't cut
+      // off prematurely.
+      connectionTimeout: 100,
+      greetingTimeout: 100,
+      socketTimeout: 100,
     })
   : null;
 
