@@ -1,0 +1,4196 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 17 Pro 256GB",
+    "slug": "iphone-17-pro-256gb-1",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "iphone",
+      "smartphone",
+      "apple",
+      "mobile",
+      "phone"
+    ],
+    "price": 232650,
+    "oldPrice": 290810,
+    "discountPct": 20,
+    "rating": 4,
+    "reviewsCount": 175,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1696446702183-cbd0ca502413?w=800&q=90",
+    "description": "iPhone 17 Pro 256GB from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Seamless wireless connectivity",
+      "Fast, reliable performance",
+      "Premium build quality"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S26 Ultra",
+    "slug": "samsung-galaxy-s26-ultra-2",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "samsung",
+      "smartphone",
+      "android",
+      "mobile",
+      "phone"
+    ],
+    "price": 186850,
+    "oldPrice": 186850,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 127,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=90",
+    "description": "Samsung Galaxy S26 Ultra from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Long-lasting battery life",
+      "Seamless wireless connectivity",
+      "High-resolution display"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "slug": "sony-wh-1000xm5-headphones-3",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "headphones",
+      "sony",
+      "noise",
+      "cancelling",
+      "audio"
+    ],
+    "price": 53560,
+    "oldPrice": 63010,
+    "discountPct": 15,
+    "rating": 4.3,
+    "reviewsCount": 532,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&q=90",
+    "description": "Sony WH-1000XM5 Headphones from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-resolution display",
+      "Seamless wireless connectivity",
+      "Latest generation hardware"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro 14\" M4",
+    "slug": "macbook-pro-14-m4-4",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "macbook",
+      "laptop",
+      "apple",
+      "computer"
+    ],
+    "price": 263620,
+    "oldPrice": 263620,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 421,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=90",
+    "description": "MacBook Pro 14\" M4 from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Fast, reliable performance",
+      "Seamless wireless connectivity",
+      "Long-lasting battery life"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 5,
+    "name": "iPad Air M3",
+    "slug": "ipad-air-m3-5",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "ipad",
+      "tablet",
+      "apple"
+    ],
+    "price": 92000,
+    "oldPrice": 126030,
+    "discountPct": 27,
+    "rating": 4.7,
+    "reviewsCount": 67,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&q=90",
+    "description": "iPad Air M3 from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Seamless wireless connectivity",
+      "Fast, reliable performance",
+      "1-year official warranty"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 15 Laptop",
+    "slug": "dell-xps-15-laptop-6",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "laptop",
+      "computer",
+      "dell",
+      "windows"
+    ],
+    "price": 249900,
+    "oldPrice": 249900,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 474,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800&q=90",
+    "description": "Dell XPS 15 Laptop from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-resolution display",
+      "1-year official warranty",
+      "Seamless wireless connectivity"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 7,
+    "name": "LG 55\" OLED Smart TV",
+    "slug": "lg-55-oled-smart-tv-7",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "television",
+      "tv",
+      "smart",
+      "oled",
+      "lg"
+    ],
+    "price": 169750,
+    "oldPrice": 192900,
+    "discountPct": 12,
+    "rating": 4,
+    "reviewsCount": 544,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&q=90",
+    "description": "LG 55\" OLED Smart TV from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Latest generation hardware",
+      "Premium build quality",
+      "Fast, reliable performance"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 8,
+    "name": "Canon EOS R8 Mirrorless Camera",
+    "slug": "canon-eos-r8-mirrorless-camera-8",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "camera",
+      "dslr",
+      "mirrorless",
+      "canon",
+      "photography"
+    ],
+    "price": 212850,
+    "oldPrice": 212850,
+    "discountPct": 0,
+    "rating": 4,
+    "reviewsCount": 595,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1606980693680-db8e7d0d4d3f?w=800&q=90",
+    "description": "Canon EOS R8 Mirrorless Camera from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-resolution display",
+      "Seamless wireless connectivity",
+      "Latest generation hardware"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 9,
+    "name": "JBL Flip 6 Bluetooth Speaker",
+    "slug": "jbl-flip-6-bluetooth-speaker-9",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "bluetooth",
+      "speaker",
+      "jbl",
+      "audio"
+    ],
+    "price": 14640,
+    "oldPrice": 19260,
+    "discountPct": 24,
+    "rating": 4.4,
+    "reviewsCount": 239,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&q=90",
+    "description": "JBL Flip 6 Bluetooth Speaker from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Long-lasting battery life",
+      "1-year official warranty",
+      "Latest generation hardware"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 11",
+    "slug": "apple-watch-series-11-10",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "smartwatch",
+      "apple",
+      "watch",
+      "wearable"
+    ],
+    "price": 59740,
+    "oldPrice": 59740,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 673,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800&q=90",
+    "description": "Apple Watch Series 11 from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Fast, reliable performance",
+      "Seamless wireless connectivity",
+      "Long-lasting battery life"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 11,
+    "name": "Sony WF-1000XM5 Earbuds",
+    "slug": "sony-wf-1000xm5-earbuds-11",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "earbuds",
+      "wireless",
+      "bluetooth",
+      "audio"
+    ],
+    "price": 37240,
+    "oldPrice": 57290,
+    "discountPct": 35,
+    "rating": 4.1,
+    "reviewsCount": 672,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800&q=90",
+    "description": "Sony WF-1000XM5 Earbuds from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Fast, reliable performance",
+      "High-resolution display",
+      "Premium build quality"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 12,
+    "name": "PlayStation 5 Console",
+    "slug": "playstation-5-console-12",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "gaming",
+      "console",
+      "playstation",
+      "ps5"
+    ],
+    "price": 92000,
+    "oldPrice": 92000,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 25,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800&q=90",
+    "description": "PlayStation 5 Console from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-resolution display",
+      "Long-lasting battery life",
+      "Fast, reliable performance"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 13,
+    "name": "Anker 20000mAh Power Bank",
+    "slug": "anker-20000mah-power-bank-13",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "power",
+      "bank",
+      "charger",
+      "portable",
+      "battery"
+    ],
+    "price": 4280,
+    "oldPrice": 4860,
+    "discountPct": 12,
+    "rating": 4.5,
+    "reviewsCount": 582,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&q=90",
+    "description": "Anker 20000mAh Power Bank from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Long-lasting battery life",
+      "High-resolution display",
+      "Latest generation hardware"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 14,
+    "name": "Amazon Echo Smart Speaker",
+    "slug": "amazon-echo-smart-speaker-14",
+    "category": "Electronics",
+    "categoryIcon": "electronics",
+    "tags": [
+      "smart",
+      "speaker",
+      "home",
+      "assistant",
+      "alexa"
+    ],
+    "price": 11160,
+    "oldPrice": 11160,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 257,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=800&q=90",
+    "description": "Amazon Echo Smart Speaker from our Electronics collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Premium build quality",
+      "1-year official warranty",
+      "High-resolution display"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 15,
+    "name": "Classic Denim Jacket",
+    "slug": "classic-denim-jacket-15",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "jacket",
+      "denim",
+      "outerwear"
+    ],
+    "price": 1550,
+    "oldPrice": 2150,
+    "discountPct": 28,
+    "rating": 4.2,
+    "reviewsCount": 673,
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&q=90",
+    "description": "Classic Denim Jacket from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Comfortable everyday fit",
+      "Breathable, soft fabric",
+      "Machine washable"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 16,
+    "name": "Orange Evening Gown",
+    "slug": "orange-evening-gown-16",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "dress",
+      "gown",
+      "evening",
+      "formal"
+    ],
+    "price": 2450,
+    "oldPrice": 2450,
+    "discountPct": 0,
+    "rating": 4,
+    "reviewsCount": 428,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800&q=90",
+    "description": "Orange Evening Gown from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Available in multiple sizes",
+      "Breathable, soft fabric",
+      "Reinforced stitching"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 17,
+    "name": "Men's Cotton Hoodie",
+    "slug": "men-s-cotton-hoodie-17",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "hoodie",
+      "sweatshirt",
+      "men"
+    ],
+    "price": 3800,
+    "oldPrice": 4690,
+    "discountPct": 19,
+    "rating": 4.9,
+    "reviewsCount": 485,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&q=90",
+    "description": "Men's Cotton Hoodie from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Machine washable",
+      "Breathable, soft fabric",
+      "Fade-resistant colours"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 18,
+    "name": "Women's Summer Dress",
+    "slug": "women-s-summer-dress-18",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "dress",
+      "summer",
+      "women"
+    ],
+    "price": 5450,
+    "oldPrice": 5450,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 298,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800&q=90",
+    "description": "Women's Summer Dress from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Reinforced stitching",
+      "Comfortable everyday fit",
+      "Fade-resistant colours"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 19,
+    "name": "Slim Fit Chinos",
+    "slug": "slim-fit-chinos-19",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "pants",
+      "chinos",
+      "trousers",
+      "men"
+    ],
+    "price": 6350,
+    "oldPrice": 8470,
+    "discountPct": 25,
+    "rating": 4.3,
+    "reviewsCount": 286,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800&q=90",
+    "description": "Slim Fit Chinos from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Available in multiple sizes",
+      "Fade-resistant colours",
+      "Breathable, soft fabric"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 20,
+    "name": "Wool Blend Winter Coat",
+    "slug": "wool-blend-winter-coat-20",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "coat",
+      "winter",
+      "jacket",
+      "outerwear"
+    ],
+    "price": 1450,
+    "oldPrice": 1450,
+    "discountPct": 0,
+    "rating": 4.7,
+    "reviewsCount": 242,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=800&q=90",
+    "description": "Wool Blend Winter Coat from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Fade-resistant colours",
+      "Comfortable everyday fit",
+      "Breathable, soft fabric"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 21,
+    "name": "Casual Linen Shirt",
+    "slug": "casual-linen-shirt-21",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "shirt",
+      "linen",
+      "casual",
+      "men"
+    ],
+    "price": 5750,
+    "oldPrice": 8100,
+    "discountPct": 29,
+    "rating": 4.6,
+    "reviewsCount": 593,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&q=90",
+    "description": "Casual Linen Shirt from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Breathable, soft fabric",
+      "Machine washable",
+      "Reinforced stitching"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 22,
+    "name": "High-Waist Yoga Leggings",
+    "slug": "high-waist-yoga-leggings-22",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "leggings",
+      "yoga",
+      "activewear",
+      "women"
+    ],
+    "price": 5200,
+    "oldPrice": 5200,
+    "discountPct": 0,
+    "rating": 4,
+    "reviewsCount": 178,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&q=90",
+    "description": "High-Waist Yoga Leggings from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Available in multiple sizes",
+      "Breathable, soft fabric",
+      "Machine washable"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 23,
+    "name": "Graphic Print T-Shirt",
+    "slug": "graphic-print-t-shirt-23",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "tshirt",
+      "shirt",
+      "casual"
+    ],
+    "price": 2750,
+    "oldPrice": 3720,
+    "discountPct": 26,
+    "rating": 4.7,
+    "reviewsCount": 753,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=90",
+    "description": "Graphic Print T-Shirt from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Available in multiple sizes",
+      "Fade-resistant colours",
+      "Comfortable everyday fit"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 24,
+    "name": "Formal Slim Blazer",
+    "slug": "formal-slim-blazer-24",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "blazer",
+      "suit",
+      "formal",
+      "jacket"
+    ],
+    "price": 3100,
+    "oldPrice": 3100,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 445,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&q=90",
+    "description": "Formal Slim Blazer from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Available in multiple sizes",
+      "Fade-resistant colours",
+      "Comfortable everyday fit"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 25,
+    "name": "Men's Dhaka Topi",
+    "slug": "men-s-dhaka-topi-25",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "topi",
+      "hat",
+      "traditional",
+      "nepali",
+      "cap"
+    ],
+    "price": 1700,
+    "oldPrice": 2240,
+    "discountPct": 24,
+    "rating": 4.8,
+    "reviewsCount": 711,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800&q=90",
+    "description": "Men's Dhaka Topi from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Available in multiple sizes",
+      "Machine washable",
+      "Fade-resistant colours"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 26,
+    "name": "Embroidered Kurta Set",
+    "slug": "embroidered-kurta-set-26",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "kurta",
+      "traditional",
+      "dress",
+      "ethnic"
+    ],
+    "price": 4200,
+    "oldPrice": 4200,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 489,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610652492249-b6755c5c9f49?w=800&q=90",
+    "description": "Embroidered Kurta Set from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Reinforced stitching",
+      "Fade-resistant colours",
+      "Comfortable everyday fit"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 27,
+    "name": "Waterproof Rain Jacket",
+    "slug": "waterproof-rain-jacket-27",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "raincoat",
+      "jacket",
+      "outerwear",
+      "waterproof"
+    ],
+    "price": 4900,
+    "oldPrice": 6530,
+    "discountPct": 25,
+    "rating": 4.3,
+    "reviewsCount": 725,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800&q=90",
+    "description": "Waterproof Rain Jacket from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Fade-resistant colours",
+      "Machine washable",
+      "Available in multiple sizes"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 28,
+    "name": "Chunky Knit Wool Sweater",
+    "slug": "chunky-knit-wool-sweater-28",
+    "category": "Clothing",
+    "categoryIcon": "clothing",
+    "tags": [
+      "sweater",
+      "jumper",
+      "wool",
+      "warm"
+    ],
+    "price": 3950,
+    "oldPrice": 3950,
+    "discountPct": 0,
+    "rating": 4.1,
+    "reviewsCount": 786,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800&q=90",
+    "description": "Chunky Knit Wool Sweater from our Clothing collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Available in multiple sizes",
+      "Machine washable",
+      "Reinforced stitching"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 29,
+    "name": "Nike Air Force 1 '07",
+    "slug": "nike-air-force-1-07-29",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "sneakers",
+      "shoes",
+      "nike"
+    ],
+    "price": 16300,
+    "oldPrice": 18520,
+    "discountPct": 12,
+    "rating": 4.8,
+    "reviewsCount": 461,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=800&q=90",
+    "description": "Nike Air Force 1 '07 from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Non-slip rubber outsole",
+      "Cushioned comfort insole",
+      "All-day wearability"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 30,
+    "name": "Adidas Ultraboost 22",
+    "slug": "adidas-ultraboost-22-30",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "running",
+      "shoes",
+      "adidas",
+      "sneakers"
+    ],
+    "price": 6050,
+    "oldPrice": 6050,
+    "discountPct": 0,
+    "rating": 4.1,
+    "reviewsCount": 130,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&q=90",
+    "description": "Adidas Ultraboost 22 from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Non-slip rubber outsole",
+      "Durable premium materials",
+      "Lightweight construction"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 31,
+    "name": "Classic Leather Loafers",
+    "slug": "classic-leather-loafers-31",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "loafers",
+      "shoes",
+      "formal",
+      "leather"
+    ],
+    "price": 2750,
+    "oldPrice": 3400,
+    "discountPct": 19,
+    "rating": 4.5,
+    "reviewsCount": 578,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=800&q=90",
+    "description": "Classic Leather Loafers from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Cushioned comfort insole",
+      "Lightweight construction",
+      "Durable premium materials"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 32,
+    "name": "Running Sneakers Pro",
+    "slug": "running-sneakers-pro-32",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "sneakers",
+      "running",
+      "shoes",
+      "sport"
+    ],
+    "price": 9450,
+    "oldPrice": 9450,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 283,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=90",
+    "description": "Running Sneakers Pro from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "All-day wearability",
+      "Lightweight construction",
+      "Non-slip rubber outsole"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 33,
+    "name": "Women's Ankle Boots",
+    "slug": "women-s-ankle-boots-33",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "boots",
+      "shoes",
+      "women"
+    ],
+    "price": 7300,
+    "oldPrice": 8110,
+    "discountPct": 10,
+    "rating": 4.3,
+    "reviewsCount": 697,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&q=90",
+    "description": "Women's Ankle Boots from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable premium materials",
+      "Cushioned comfort insole",
+      "All-day wearability"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 34,
+    "name": "Beach Flip Flops",
+    "slug": "beach-flip-flops-34",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "flip",
+      "flops",
+      "sandals",
+      "slippers"
+    ],
+    "price": 5000,
+    "oldPrice": 5000,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 799,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=800&q=90",
+    "description": "Beach Flip Flops from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "All-day wearability",
+      "Cushioned comfort insole",
+      "Non-slip rubber outsole"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 35,
+    "name": "Hiking Trail Shoes",
+    "slug": "hiking-trail-shoes-35",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "hiking",
+      "boots",
+      "trekking",
+      "shoes",
+      "outdoor"
+    ],
+    "price": 3850,
+    "oldPrice": 4480,
+    "discountPct": 14,
+    "rating": 4.4,
+    "reviewsCount": 710,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=800&q=90",
+    "description": "Hiking Trail Shoes from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Cushioned comfort insole",
+      "Non-slip rubber outsole",
+      "Lightweight construction"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 36,
+    "name": "Canvas Slip-On Shoes",
+    "slug": "canvas-slip-on-shoes-36",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "canvas",
+      "shoes",
+      "casual"
+    ],
+    "price": 5000,
+    "oldPrice": 5000,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 698,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=800&q=90",
+    "description": "Canvas Slip-On Shoes from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Cushioned comfort insole",
+      "Lightweight construction",
+      "All-day wearability"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 37,
+    "name": "Formal Oxford Shoes",
+    "slug": "formal-oxford-shoes-37",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "oxford",
+      "shoes",
+      "formal",
+      "leather"
+    ],
+    "price": 4250,
+    "oldPrice": 4780,
+    "discountPct": 11,
+    "rating": 4.1,
+    "reviewsCount": 528,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&q=90",
+    "description": "Formal Oxford Shoes from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "All-day wearability",
+      "Lightweight construction",
+      "Non-slip rubber outsole"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 38,
+    "name": "Kids Sport Shoes",
+    "slug": "kids-sport-shoes-38",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "kids",
+      "sneakers",
+      "shoes",
+      "children"
+    ],
+    "price": 3150,
+    "oldPrice": 3150,
+    "discountPct": 0,
+    "rating": 4.9,
+    "reviewsCount": 488,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=800&q=90",
+    "description": "Kids Sport Shoes from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable premium materials",
+      "Lightweight construction",
+      "All-day wearability"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 39,
+    "name": "Everyday Sports Sandals",
+    "slug": "everyday-sports-sandals-39",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "sandals",
+      "sports",
+      "outdoor"
+    ],
+    "price": 6000,
+    "oldPrice": 7140,
+    "discountPct": 16,
+    "rating": 4.3,
+    "reviewsCount": 167,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?w=800&q=90",
+    "description": "Everyday Sports Sandals from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Lightweight construction",
+      "Durable premium materials",
+      "All-day wearability"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 40,
+    "name": "Women's Block Heels",
+    "slug": "women-s-block-heels-40",
+    "category": "Footwear",
+    "categoryIcon": "footwear",
+    "tags": [
+      "heels",
+      "shoes",
+      "formal",
+      "women"
+    ],
+    "price": 2650,
+    "oldPrice": 2650,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 785,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1596702842578-93f6c2e5e333?w=800&q=90",
+    "description": "Women's Block Heels from our Footwear collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Non-slip rubber outsole",
+      "Durable premium materials",
+      "All-day wearability"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 41,
+    "name": "Ninja Professional Blender",
+    "slug": "ninja-professional-blender-41",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "blender",
+      "kitchen",
+      "appliance"
+    ],
+    "price": 4750,
+    "oldPrice": 6510,
+    "discountPct": 27,
+    "rating": 4.4,
+    "reviewsCount": 72,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&q=90",
+    "description": "Ninja Professional Blender from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Easy to clean",
+      "Dishwasher-safe parts"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 42,
+    "name": "Non-Stick Cookware Set",
+    "slug": "non-stick-cookware-set-42",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "cookware",
+      "pots",
+      "pans",
+      "kitchen"
+    ],
+    "price": 6750,
+    "oldPrice": 6750,
+    "discountPct": 0,
+    "rating": 4.1,
+    "reviewsCount": 703,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584990347449-39db9e69c1b5?w=800&q=90",
+    "description": "Non-Stick Cookware Set from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Energy efficient",
+      "Dishwasher-safe parts",
+      "Easy to clean"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 43,
+    "name": "Electric Kettle 1.7L",
+    "slug": "electric-kettle-1-7l-43",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "kettle",
+      "electric",
+      "kitchen"
+    ],
+    "price": 3700,
+    "oldPrice": 4740,
+    "discountPct": 22,
+    "rating": 4.6,
+    "reviewsCount": 326,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?w=800&q=90",
+    "description": "Electric Kettle 1.7L from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Easy to clean",
+      "Durable, sturdy build",
+      "Space-saving design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 44,
+    "name": "Stainless Steel Knife Set",
+    "slug": "stainless-steel-knife-set-44",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "knife",
+      "set",
+      "kitchen",
+      "tools"
+    ],
+    "price": 15100,
+    "oldPrice": 15100,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 306,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=800&q=90",
+    "description": "Stainless Steel Knife Set from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Durable, sturdy build",
+      "Energy efficient"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 45,
+    "name": "Air Fryer XL",
+    "slug": "air-fryer-xl-45",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "air",
+      "fryer",
+      "kitchen",
+      "appliance"
+    ],
+    "price": 20300,
+    "oldPrice": 26360,
+    "discountPct": 23,
+    "rating": 4.7,
+    "reviewsCount": 742,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?w=800&q=90",
+    "description": "Air Fryer XL from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Easy to clean",
+      "Dishwasher-safe parts"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 46,
+    "name": "Espresso Coffee Machine",
+    "slug": "espresso-coffee-machine-46",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "espresso",
+      "coffee",
+      "machine",
+      "kitchen"
+    ],
+    "price": 5100,
+    "oldPrice": 5100,
+    "discountPct": 0,
+    "rating": 4.7,
+    "reviewsCount": 272,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800&q=90",
+    "description": "Espresso Coffee Machine from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Easy to clean",
+      "Energy efficient"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 47,
+    "name": "Rice Cooker Deluxe",
+    "slug": "rice-cooker-deluxe-47",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "rice",
+      "cooker",
+      "kitchen",
+      "appliance"
+    ],
+    "price": 7250,
+    "oldPrice": 9670,
+    "discountPct": 25,
+    "rating": 4.3,
+    "reviewsCount": 740,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=90",
+    "description": "Rice Cooker Deluxe from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable, sturdy build",
+      "Easy to clean",
+      "Dishwasher-safe parts"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 48,
+    "name": "Glass Food Storage Set",
+    "slug": "glass-food-storage-set-48",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "food",
+      "storage",
+      "containers",
+      "kitchen"
+    ],
+    "price": 4950,
+    "oldPrice": 4950,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 748,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?w=800&q=90",
+    "description": "Glass Food Storage Set from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Easy to clean",
+      "Energy efficient"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 49,
+    "name": "Stand Mixer Pro",
+    "slug": "stand-mixer-pro-49",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "mixer",
+      "baking",
+      "kitchen",
+      "appliance"
+    ],
+    "price": 6550,
+    "oldPrice": 7800,
+    "discountPct": 16,
+    "rating": 4.1,
+    "reviewsCount": 484,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1578269174936-2709b6aeb913?w=800&q=90",
+    "description": "Stand Mixer Pro from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Dishwasher-safe parts",
+      "Easy to clean"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 50,
+    "name": "Cast Iron Skillet",
+    "slug": "cast-iron-skillet-50",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "skillet",
+      "pan",
+      "cookware"
+    ],
+    "price": 17900,
+    "oldPrice": 17900,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 385,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800&q=90",
+    "description": "Cast Iron Skillet from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable, sturdy build",
+      "Energy efficient",
+      "Dishwasher-safe parts"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 51,
+    "name": "Aluminium Pressure Cooker 5L",
+    "slug": "aluminium-pressure-cooker-5l-51",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "pressure",
+      "cooker",
+      "kitchen",
+      "dal",
+      "rice"
+    ],
+    "price": 10300,
+    "oldPrice": 12120,
+    "discountPct": 15,
+    "rating": 4.1,
+    "reviewsCount": 585,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&q=90",
+    "description": "Aluminium Pressure Cooker 5L from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Easy to clean",
+      "Dishwasher-safe parts",
+      "Energy efficient"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 52,
+    "name": "2-Burner Gas Stove",
+    "slug": "2-burner-gas-stove-52",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "gas",
+      "stove",
+      "cooktop",
+      "kitchen"
+    ],
+    "price": 14400,
+    "oldPrice": 14400,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 29,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=90",
+    "description": "2-Burner Gas Stove from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable, sturdy build",
+      "Easy to clean",
+      "Energy efficient"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 53,
+    "name": "Induction Cooktop",
+    "slug": "induction-cooktop-53",
+    "category": "Kitchen",
+    "categoryIcon": "kitchen",
+    "tags": [
+      "induction",
+      "cooktop",
+      "stove",
+      "kitchen"
+    ],
+    "price": 21300,
+    "oldPrice": 26300,
+    "discountPct": 19,
+    "rating": 4.6,
+    "reviewsCount": 203,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1625937286074-9ca519d5d9df?w=800&q=90",
+    "description": "Induction Cooktop from our Kitchen collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable, sturdy build",
+      "Energy efficient",
+      "Space-saving design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 54,
+    "name": "Leather Bifold Wallet",
+    "slug": "leather-bifold-wallet-54",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "wallet",
+      "leather",
+      "accessory"
+    ],
+    "price": 2250,
+    "oldPrice": 2250,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 647,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&q=90",
+    "description": "Leather Bifold Wallet from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Everyday durability",
+      "Gift-ready packaging",
+      "Adjustable comfortable fit"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 55,
+    "name": "Aviator Sunglasses",
+    "slug": "aviator-sunglasses-55",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "sunglasses",
+      "eyewear",
+      "accessory"
+    ],
+    "price": 1800,
+    "oldPrice": 2050,
+    "discountPct": 12,
+    "rating": 4.4,
+    "reviewsCount": 553,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&q=90",
+    "description": "Aviator Sunglasses from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Adjustable comfortable fit",
+      "Everyday durability",
+      "Gift-ready packaging"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 56,
+    "name": "Classic Analog Wrist Watch",
+    "slug": "classic-analog-wrist-watch-56",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "watch",
+      "wristwatch",
+      "accessory"
+    ],
+    "price": 1400,
+    "oldPrice": 1400,
+    "discountPct": 0,
+    "rating": 4.7,
+    "reviewsCount": 139,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&q=90",
+    "description": "Classic Analog Wrist Watch from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Premium quality materials",
+      "Adjustable comfortable fit",
+      "Gift-ready packaging"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 57,
+    "name": "Silk Necktie",
+    "slug": "silk-necktie-57",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "necktie",
+      "tie",
+      "formal",
+      "accessory"
+    ],
+    "price": 3350,
+    "oldPrice": 3760,
+    "discountPct": 11,
+    "rating": 4.9,
+    "reviewsCount": 763,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1589756823695-278bc0e27b9e?w=800&q=90",
+    "description": "Silk Necktie from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Adjustable comfortable fit",
+      "Premium quality materials",
+      "Gift-ready packaging"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 58,
+    "name": "Canvas Travel Backpack",
+    "slug": "canvas-travel-backpack-58",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "backpack",
+      "bag",
+      "travel"
+    ],
+    "price": 3000,
+    "oldPrice": 3000,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 520,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=90",
+    "description": "Canvas Travel Backpack from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Premium quality materials",
+      "Everyday durability",
+      "Gift-ready packaging"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 59,
+    "name": "Genuine Leather Belt",
+    "slug": "genuine-leather-belt-59",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "belt",
+      "leather",
+      "accessory"
+    ],
+    "price": 5250,
+    "oldPrice": 7950,
+    "discountPct": 34,
+    "rating": 4.3,
+    "reviewsCount": 606,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1624222247344-70f6f4e3f10e?w=800&q=90",
+    "description": "Genuine Leather Belt from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Premium quality materials",
+      "Timeless, versatile design",
+      "Gift-ready packaging"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 60,
+    "name": "Beaded Bracelet Set",
+    "slug": "beaded-bracelet-set-60",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "bracelet",
+      "jewelry",
+      "accessory"
+    ],
+    "price": 3600,
+    "oldPrice": 3600,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 410,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=90",
+    "description": "Beaded Bracelet Set from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Gift-ready packaging",
+      "Everyday durability",
+      "Adjustable comfortable fit"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 61,
+    "name": "Silver Pendant Necklace",
+    "slug": "silver-pendant-necklace-61",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "necklace",
+      "jewelry",
+      "silver",
+      "accessory"
+    ],
+    "price": 4800,
+    "oldPrice": 5650,
+    "discountPct": 15,
+    "rating": 4.4,
+    "reviewsCount": 450,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&q=90",
+    "description": "Silver Pendant Necklace from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Timeless, versatile design",
+      "Premium quality materials",
+      "Gift-ready packaging"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 62,
+    "name": "Weekend Travel Duffel Bag",
+    "slug": "weekend-travel-duffel-bag-62",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "duffel",
+      "bag",
+      "travel",
+      "luggage"
+    ],
+    "price": 4800,
+    "oldPrice": 4800,
+    "discountPct": 0,
+    "rating": 4.1,
+    "reviewsCount": 394,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1564422170194-896b89110ef8?w=800&q=90",
+    "description": "Weekend Travel Duffel Bag from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Gift-ready packaging",
+      "Everyday durability",
+      "Timeless, versatile design"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 63,
+    "name": "Adjustable Baseball Cap",
+    "slug": "adjustable-baseball-cap-63",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "cap",
+      "hat",
+      "accessory"
+    ],
+    "price": 6500,
+    "oldPrice": 7650,
+    "discountPct": 15,
+    "rating": 4.5,
+    "reviewsCount": 302,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800&q=90",
+    "description": "Adjustable Baseball Cap from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Adjustable comfortable fit",
+      "Everyday durability",
+      "Timeless, versatile design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 64,
+    "name": "Clear Phone Case",
+    "slug": "clear-phone-case-64",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "phone",
+      "case",
+      "mobile",
+      "accessory"
+    ],
+    "price": 5100,
+    "oldPrice": 5100,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 787,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=800&q=90",
+    "description": "Clear Phone Case from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Everyday durability",
+      "Premium quality materials",
+      "Timeless, versatile design"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 65,
+    "name": "Compact Travel Umbrella",
+    "slug": "compact-travel-umbrella-65",
+    "category": "Accessories",
+    "categoryIcon": "accessories",
+    "tags": [
+      "umbrella",
+      "rain",
+      "accessory"
+    ],
+    "price": 910,
+    "oldPrice": 1360,
+    "discountPct": 33,
+    "rating": 4,
+    "reviewsCount": 419,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1527779477856-1144beaabdfd?w=800&q=90",
+    "description": "Compact Travel Umbrella from our Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Everyday durability",
+      "Timeless, versatile design",
+      "Adjustable comfortable fit"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 66,
+    "name": "Memory Foam Pillow",
+    "slug": "memory-foam-pillow-66",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "pillow",
+      "bedroom",
+      "home"
+    ],
+    "price": 5750,
+    "oldPrice": 5750,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 357,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=800&q=90",
+    "description": "Memory Foam Pillow from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Soft, pleasant texture",
+      "Adds a cozy touch to any room",
+      "Fits any decor style"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 67,
+    "name": "Cotton Bedsheet Set",
+    "slug": "cotton-bedsheet-set-67",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "bedsheet",
+      "bedroom",
+      "home",
+      "linen"
+    ],
+    "price": 1400,
+    "oldPrice": 1710,
+    "discountPct": 18,
+    "rating": 4.2,
+    "reviewsCount": 659,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=90",
+    "description": "Cotton Bedsheet Set from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Easy to maintain",
+      "Fits any decor style",
+      "Adds a cozy touch to any room"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 68,
+    "name": "Scented Candle Gift Set",
+    "slug": "scented-candle-gift-set-68",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "candle",
+      "home",
+      "decor",
+      "gift"
+    ],
+    "price": 11700,
+    "oldPrice": 11700,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 356,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1602874801006-96415c52dd1a?w=800&q=90",
+    "description": "Scented Candle Gift Set from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Easy to maintain",
+      "Fits any decor style"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 69,
+    "name": "Wall Art Canvas Print",
+    "slug": "wall-art-canvas-print-69",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "wall",
+      "art",
+      "canvas",
+      "decor"
+    ],
+    "price": 960,
+    "oldPrice": 1300,
+    "discountPct": 26,
+    "rating": 4.3,
+    "reviewsCount": 357,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1582201942988-13e60e4556ee?w=800&q=90",
+    "description": "Wall Art Canvas Print from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Easy to maintain",
+      "Fits any decor style",
+      "Space-saving design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 70,
+    "name": "LED Desk Lamp",
+    "slug": "led-desk-lamp-70",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "desk",
+      "lamp",
+      "light",
+      "home"
+    ],
+    "price": 6700,
+    "oldPrice": 6700,
+    "discountPct": 0,
+    "rating": 4.7,
+    "reviewsCount": 392,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&q=90",
+    "description": "LED Desk Lamp from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Easy to maintain",
+      "Adds a cozy touch to any room",
+      "Space-saving design"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 71,
+    "name": "Area Rug 5x7",
+    "slug": "area-rug-5x7-71",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "rug",
+      "carpet",
+      "home",
+      "decor"
+    ],
+    "price": 7050,
+    "oldPrice": 8600,
+    "discountPct": 18,
+    "rating": 4.3,
+    "reviewsCount": 330,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1600166898405-da9535204843?w=800&q=90",
+    "description": "Area Rug 5x7 from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Adds a cozy touch to any room",
+      "Fits any decor style"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 72,
+    "name": "Soft Throw Blanket",
+    "slug": "soft-throw-blanket-72",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "blanket",
+      "bedroom",
+      "home"
+    ],
+    "price": 7550,
+    "oldPrice": 7550,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 592,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=800&q=90",
+    "description": "Soft Throw Blanket from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Soft, pleasant texture",
+      "Space-saving design",
+      "Fits any decor style"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 73,
+    "name": "Ceramic Vase Set",
+    "slug": "ceramic-vase-set-73",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "vase",
+      "ceramic",
+      "home",
+      "decor"
+    ],
+    "price": 4100,
+    "oldPrice": 4710,
+    "discountPct": 13,
+    "rating": 4.1,
+    "reviewsCount": 300,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?w=800&q=90",
+    "description": "Ceramic Vase Set from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Fits any decor style",
+      "Easy to maintain",
+      "Space-saving design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 74,
+    "name": "Storage Ottoman",
+    "slug": "storage-ottoman-74",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "ottoman",
+      "furniture",
+      "storage"
+    ],
+    "price": 3950,
+    "oldPrice": 3950,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 547,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=800&q=90",
+    "description": "Storage Ottoman from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Fits any decor style",
+      "Easy to maintain",
+      "Adds a cozy touch to any room"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 75,
+    "name": "Modern Wall Clock",
+    "slug": "modern-wall-clock-75",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "wall",
+      "clock",
+      "home",
+      "decor"
+    ],
+    "price": 3250,
+    "oldPrice": 4450,
+    "discountPct": 27,
+    "rating": 4.8,
+    "reviewsCount": 136,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?w=800&q=90",
+    "description": "Modern Wall Clock from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Space-saving design",
+      "Fits any decor style",
+      "Easy to maintain"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 76,
+    "name": "Blackout Window Curtains",
+    "slug": "blackout-window-curtains-76",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "curtains",
+      "window",
+      "home",
+      "decor"
+    ],
+    "price": 1000,
+    "oldPrice": 1000,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 729,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1577150105831-e6aa4c0609c7?w=800&q=90",
+    "description": "Blackout Window Curtains from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Easy to maintain",
+      "Soft, pleasant texture",
+      "Space-saving design"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 77,
+    "name": "Decorative Cushion Covers (Set of 4)",
+    "slug": "decorative-cushion-covers-set-of-4-77",
+    "category": "Home & Living",
+    "categoryIcon": "home",
+    "tags": [
+      "cushion",
+      "cover",
+      "pillow",
+      "home",
+      "decor"
+    ],
+    "price": 8900,
+    "oldPrice": 10990,
+    "discountPct": 19,
+    "rating": 4.7,
+    "reviewsCount": 653,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&q=90",
+    "description": "Decorative Cushion Covers (Set of 4) from our Home & Living collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Adds a cozy touch to any room",
+      "Fits any decor style",
+      "Space-saving design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 78,
+    "name": "Vitamin C Face Serum",
+    "slug": "vitamin-c-face-serum-78",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "serum",
+      "skincare",
+      "beauty",
+      "face"
+    ],
+    "price": 3150,
+    "oldPrice": 3150,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 473,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&q=90",
+    "description": "Vitamin C Face Serum from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Travel-friendly size",
+      "Long-lasting formula",
+      "Suitable for daily use"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 79,
+    "name": "Moisturizing Face Cream",
+    "slug": "moisturizing-face-cream-79",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "face",
+      "cream",
+      "skincare",
+      "beauty"
+    ],
+    "price": 3500,
+    "oldPrice": 4670,
+    "discountPct": 25,
+    "rating": 4.8,
+    "reviewsCount": 265,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&q=90",
+    "description": "Moisturizing Face Cream from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Dermatologist tested",
+      "Long-lasting formula",
+      "Suitable for daily use"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 80,
+    "name": "Matte Lipstick Set",
+    "slug": "matte-lipstick-set-80",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "lipstick",
+      "makeup",
+      "beauty"
+    ],
+    "price": 2750,
+    "oldPrice": 2750,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 449,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=800&q=90",
+    "description": "Matte Lipstick Set from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Dermatologist tested",
+      "Suitable for daily use",
+      "Cruelty-free"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 81,
+    "name": "Ionic Hair Dryer",
+    "slug": "ionic-hair-dryer-81",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "hair",
+      "dryer",
+      "beauty",
+      "tool"
+    ],
+    "price": 5650,
+    "oldPrice": 6570,
+    "discountPct": 14,
+    "rating": 4.7,
+    "reviewsCount": 790,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=800&q=90",
+    "description": "Ionic Hair Dryer from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Suitable for daily use",
+      "Travel-friendly size",
+      "Cruelty-free"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 82,
+    "name": "Electric Shaver Pro",
+    "slug": "electric-shaver-pro-82",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "shaver",
+      "grooming",
+      "beauty"
+    ],
+    "price": 1750,
+    "oldPrice": 1750,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 495,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1564029798046-9d6f0d1d9f23?w=800&q=90",
+    "description": "Electric Shaver Pro from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Long-lasting formula",
+      "Dermatologist tested",
+      "Suitable for daily use"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 83,
+    "name": "Eau de Parfum 100ml",
+    "slug": "eau-de-parfum-100ml-83",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "perfume",
+      "fragrance",
+      "beauty"
+    ],
+    "price": 2600,
+    "oldPrice": 3820,
+    "discountPct": 32,
+    "rating": 4.6,
+    "reviewsCount": 270,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=800&q=90",
+    "description": "Eau de Parfum 100ml from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Travel-friendly size",
+      "Suitable for daily use",
+      "Cruelty-free"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 84,
+    "name": "Professional Makeup Brush Set",
+    "slug": "professional-makeup-brush-set-84",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "makeup",
+      "brush",
+      "beauty",
+      "tool"
+    ],
+    "price": 910,
+    "oldPrice": 910,
+    "discountPct": 0,
+    "rating": 4.9,
+    "reviewsCount": 665,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&q=90",
+    "description": "Professional Makeup Brush Set from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Long-lasting formula",
+      "Suitable for daily use",
+      "Cruelty-free"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 85,
+    "name": "Facial Cleansing Brush",
+    "slug": "facial-cleansing-brush-85",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "facial",
+      "brush",
+      "skincare",
+      "beauty"
+    ],
+    "price": 2850,
+    "oldPrice": 3610,
+    "discountPct": 21,
+    "rating": 4.7,
+    "reviewsCount": 619,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&q=90",
+    "description": "Facial Cleansing Brush from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Cruelty-free",
+      "Travel-friendly size",
+      "Long-lasting formula"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 86,
+    "name": "Nail Polish Collection",
+    "slug": "nail-polish-collection-86",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "nail",
+      "polish",
+      "beauty",
+      "makeup"
+    ],
+    "price": 3050,
+    "oldPrice": 3050,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 404,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=800&q=90",
+    "description": "Nail Polish Collection from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Travel-friendly size",
+      "Suitable for daily use",
+      "Dermatologist tested"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 87,
+    "name": "Sunscreen SPF 50",
+    "slug": "sunscreen-spf-50-87",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "sunscreen",
+      "skincare",
+      "beauty"
+    ],
+    "price": 1050,
+    "oldPrice": 1500,
+    "discountPct": 30,
+    "rating": 4.8,
+    "reviewsCount": 513,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&q=90",
+    "description": "Sunscreen SPF 50 from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Cruelty-free",
+      "Travel-friendly size",
+      "Dermatologist tested"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 88,
+    "name": "Argan Oil Shampoo & Conditioner Set",
+    "slug": "argan-oil-shampoo-conditioner-set-88",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "shampoo",
+      "conditioner",
+      "hair",
+      "care",
+      "beauty"
+    ],
+    "price": 2250,
+    "oldPrice": 2250,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 360,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1594887914061-2e605248e752?w=800&q=90",
+    "description": "Argan Oil Shampoo & Conditioner Set from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Travel-friendly size",
+      "Dermatologist tested",
+      "Suitable for daily use"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 89,
+    "name": "Gentle Foaming Face Wash",
+    "slug": "gentle-foaming-face-wash-89",
+    "category": "Beauty",
+    "categoryIcon": "beauty",
+    "tags": [
+      "face",
+      "wash",
+      "skincare",
+      "beauty"
+    ],
+    "price": 4450,
+    "oldPrice": 5000,
+    "discountPct": 11,
+    "rating": 4.8,
+    "reviewsCount": 86,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?w=800&q=90",
+    "description": "Gentle Foaming Face Wash from our Beauty collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Suitable for daily use",
+      "Long-lasting formula",
+      "Dermatologist tested"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 90,
+    "name": "Premium Yoga Mat",
+    "slug": "premium-yoga-mat-90",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "yoga",
+      "mat",
+      "fitness",
+      "exercise"
+    ],
+    "price": 980,
+    "oldPrice": 980,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 280,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&q=90",
+    "description": "Premium Yoga Mat from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Built for daily training",
+      "Lightweight and portable",
+      "Beginner friendly"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 91,
+    "name": "Adjustable Dumbbell Set",
+    "slug": "adjustable-dumbbell-set-91",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "dumbbell",
+      "weights",
+      "fitness",
+      "gym"
+    ],
+    "price": 9450,
+    "oldPrice": 12600,
+    "discountPct": 25,
+    "rating": 4.1,
+    "reviewsCount": 482,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=90",
+    "description": "Adjustable Dumbbell Set from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Built for daily training",
+      "Lightweight and portable",
+      "Sweat-resistant material"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 92,
+    "name": "Resistance Bands Set",
+    "slug": "resistance-bands-set-92",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "resistance",
+      "bands",
+      "fitness",
+      "exercise"
+    ],
+    "price": 3050,
+    "oldPrice": 3050,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 317,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=800&q=90",
+    "description": "Resistance Bands Set from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Sweat-resistant material",
+      "Lightweight and portable",
+      "Built for daily training"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 93,
+    "name": "Cycling Helmet",
+    "slug": "cycling-helmet-93",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "helmet",
+      "cycling",
+      "sports",
+      "safety"
+    ],
+    "price": 7500,
+    "oldPrice": 8430,
+    "discountPct": 11,
+    "rating": 4.1,
+    "reviewsCount": 246,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1567057419565-4349c49d8a6c?w=800&q=90",
+    "description": "Cycling Helmet from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Reinforced stitching",
+      "Beginner friendly",
+      "Lightweight and portable"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 94,
+    "name": "Official Size 5 Football",
+    "slug": "official-size-5-football-94",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "football",
+      "soccer",
+      "ball",
+      "sports"
+    ],
+    "price": 6950,
+    "oldPrice": 6950,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 307,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1614632537197-38a17061c2bd?w=800&q=90",
+    "description": "Official Size 5 Football from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Built for daily training",
+      "Sweat-resistant material",
+      "Beginner friendly"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 95,
+    "name": "Badminton Racket Set",
+    "slug": "badminton-racket-set-95",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "badminton",
+      "racket",
+      "sports"
+    ],
+    "price": 11700,
+    "oldPrice": 15810,
+    "discountPct": 26,
+    "rating": 4.6,
+    "reviewsCount": 184,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800&q=90",
+    "description": "Badminton Racket Set from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Reinforced stitching",
+      "Built for daily training",
+      "Beginner friendly"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 96,
+    "name": "4-Person Camping Tent",
+    "slug": "4-person-camping-tent-96",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "tent",
+      "camping",
+      "outdoor"
+    ],
+    "price": 4900,
+    "oldPrice": 4900,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 201,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&q=90",
+    "description": "4-Person Camping Tent from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Built for daily training",
+      "Lightweight and portable",
+      "Sweat-resistant material"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 97,
+    "name": "Fitness Tracker Band",
+    "slug": "fitness-tracker-band-97",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "fitness",
+      "tracker",
+      "wearable",
+      "sports"
+    ],
+    "price": 12800,
+    "oldPrice": 18290,
+    "discountPct": 30,
+    "rating": 4.1,
+    "reviewsCount": 792,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?w=800&q=90",
+    "description": "Fitness Tracker Band from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Lightweight and portable",
+      "Built for daily training",
+      "Reinforced stitching"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 98,
+    "name": "Speed Skipping Rope",
+    "slug": "speed-skipping-rope-98",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "jump",
+      "rope",
+      "skipping",
+      "fitness"
+    ],
+    "price": 1650,
+    "oldPrice": 1650,
+    "discountPct": 0,
+    "rating": 4,
+    "reviewsCount": 372,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1519505907962-0a6cb0167c73?w=800&q=90",
+    "description": "Speed Skipping Rope from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Beginner friendly",
+      "Sweat-resistant material",
+      "Built for daily training"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 99,
+    "name": "Insulated Water Bottle",
+    "slug": "insulated-water-bottle-99",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "water",
+      "bottle",
+      "sports",
+      "fitness"
+    ],
+    "price": 4600,
+    "oldPrice": 6130,
+    "discountPct": 25,
+    "rating": 4.4,
+    "reviewsCount": 453,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&q=90",
+    "description": "Insulated Water Bottle from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Reinforced stitching",
+      "Lightweight and portable",
+      "Sweat-resistant material"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 100,
+    "name": "Cricket Bat (Grade A Willow)",
+    "slug": "cricket-bat-grade-a-willow-100",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "cricket",
+      "bat",
+      "sports"
+    ],
+    "price": 9500,
+    "oldPrice": 9500,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 294,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800&q=90",
+    "description": "Cricket Bat (Grade A Willow) from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Built for daily training",
+      "Reinforced stitching",
+      "Beginner friendly"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 101,
+    "name": "40L Trekking Backpack",
+    "slug": "40l-trekking-backpack-101",
+    "category": "Sports & Fitness",
+    "categoryIcon": "sports",
+    "tags": [
+      "trekking",
+      "backpack",
+      "hiking",
+      "outdoor",
+      "bag"
+    ],
+    "price": 11300,
+    "oldPrice": 12560,
+    "discountPct": 10,
+    "rating": 4.5,
+    "reviewsCount": 115,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1622260614927-e75d7d809e66?w=800&q=90",
+    "description": "40L Trekking Backpack from our Sports & Fitness collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Beginner friendly",
+      "Built for daily training",
+      "Reinforced stitching"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 102,
+    "name": "Bestselling Novel Collection",
+    "slug": "bestselling-novel-collection-102",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "books",
+      "novel",
+      "fiction"
+    ],
+    "price": 1050,
+    "oldPrice": 1050,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 677,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&q=90",
+    "description": "Bestselling Novel Collection from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable binding",
+      "Ideal for daily use",
+      "Great for gifting"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 103,
+    "name": "Leather Notebook Journal",
+    "slug": "leather-notebook-journal-103",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "notebook",
+      "journal",
+      "stationery"
+    ],
+    "price": 1350,
+    "oldPrice": 1570,
+    "discountPct": 14,
+    "rating": 4.7,
+    "reviewsCount": 49,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1517971129774-8a2b38fa128e?w=800&q=90",
+    "description": "Leather Notebook Journal from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Compact and portable",
+      "Ideal for daily use",
+      "Great for gifting"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 104,
+    "name": "Fountain Pen Gift Set",
+    "slug": "fountain-pen-gift-set-104",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "fountain",
+      "pen",
+      "writing",
+      "stationery"
+    ],
+    "price": 380,
+    "oldPrice": 380,
+    "discountPct": 0,
+    "rating": 4.9,
+    "reviewsCount": 569,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586158291800-2665f07bfa62?w=800&q=90",
+    "description": "Fountain Pen Gift Set from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-quality paper",
+      "Ideal for daily use",
+      "Compact and portable"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 105,
+    "name": "Desk Organizer Set",
+    "slug": "desk-organizer-set-105",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "desk",
+      "organizer",
+      "stationery",
+      "office"
+    ],
+    "price": 920,
+    "oldPrice": 1190,
+    "discountPct": 23,
+    "rating": 4.7,
+    "reviewsCount": 322,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1560717845-968905f7b559?w=800&q=90",
+    "description": "Desk Organizer Set from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable binding",
+      "Ideal for daily use",
+      "Great for gifting"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 106,
+    "name": "Children's Story Book Set",
+    "slug": "children-s-story-book-set-106",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "children",
+      "books",
+      "kids",
+      "reading"
+    ],
+    "price": 260,
+    "oldPrice": 260,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 391,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&q=90",
+    "description": "Children's Story Book Set from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Ideal for daily use",
+      "High-quality paper",
+      "Compact and portable"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 107,
+    "name": "Premium Sketchbook",
+    "slug": "premium-sketchbook-107",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "sketchbook",
+      "drawing",
+      "art"
+    ],
+    "price": 360,
+    "oldPrice": 550,
+    "discountPct": 34,
+    "rating": 4.5,
+    "reviewsCount": 322,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=90",
+    "description": "Premium Sketchbook from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Ideal for daily use",
+      "Durable binding",
+      "High-quality paper"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 108,
+    "name": "Highlighter Set",
+    "slug": "highlighter-set-108",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "highlighter",
+      "stationery",
+      "school"
+    ],
+    "price": 1300,
+    "oldPrice": 1300,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 466,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=90",
+    "description": "Highlighter Set from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-quality paper",
+      "Durable binding",
+      "Great for gifting"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 109,
+    "name": "2027 Desk Calendar Planner",
+    "slug": "2027-desk-calendar-planner-109",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "planner",
+      "calendar",
+      "stationery"
+    ],
+    "price": 360,
+    "oldPrice": 510,
+    "discountPct": 29,
+    "rating": 4.2,
+    "reviewsCount": 715,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=800&q=90",
+    "description": "2027 Desk Calendar Planner from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Great for gifting",
+      "Ideal for daily use",
+      "Compact and portable"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 110,
+    "name": "World Atlas Book",
+    "slug": "world-atlas-book-110",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "atlas",
+      "book",
+      "reference"
+    ],
+    "price": 3150,
+    "oldPrice": 3150,
+    "discountPct": 0,
+    "rating": 4.1,
+    "reviewsCount": 113,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&q=90",
+    "description": "World Atlas Book from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Great for gifting",
+      "High-quality paper",
+      "Ideal for daily use"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 111,
+    "name": "Puzzle & Brain Games Book",
+    "slug": "puzzle-brain-games-book-111",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "puzzle",
+      "book",
+      "brain",
+      "games"
+    ],
+    "price": 2350,
+    "oldPrice": 2830,
+    "discountPct": 17,
+    "rating": 4.1,
+    "reviewsCount": 572,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1515705576963-95cad62945b6?w=800&q=90",
+    "description": "Puzzle & Brain Games Book from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-quality paper",
+      "Compact and portable",
+      "Great for gifting"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 112,
+    "name": "School Backpack",
+    "slug": "school-backpack-112",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "school",
+      "bag",
+      "backpack",
+      "stationery"
+    ],
+    "price": 1700,
+    "oldPrice": 1700,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 212,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1577733966973-d680bffd2e80?w=800&q=90",
+    "description": "School Backpack from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Compact and portable",
+      "High-quality paper",
+      "Ideal for daily use"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 113,
+    "name": "Multi-Compartment Pencil Case",
+    "slug": "multi-compartment-pencil-case-113",
+    "category": "Books & Stationery",
+    "categoryIcon": "books",
+    "tags": [
+      "pencil",
+      "case",
+      "stationery",
+      "school"
+    ],
+    "price": 3250,
+    "oldPrice": 4710,
+    "discountPct": 31,
+    "rating": 4.7,
+    "reviewsCount": 309,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1606363952890-2325c0f447f6?w=800&q=90",
+    "description": "Multi-Compartment Pencil Case from our Books & Stationery collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "High-quality paper",
+      "Ideal for daily use",
+      "Durable binding"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 114,
+    "name": "Wooden Building Blocks Set",
+    "slug": "wooden-building-blocks-set-114",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "wooden",
+      "blocks",
+      "toys",
+      "kids"
+    ],
+    "price": 5250,
+    "oldPrice": 5250,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 406,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?w=800&q=90",
+    "description": "Wooden Building Blocks Set from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Safe, non-toxic materials",
+      "Easy to assemble",
+      "Encourages creative play"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 115,
+    "name": "Remote Control Racing Car",
+    "slug": "remote-control-racing-car-115",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "rc",
+      "car",
+      "toy",
+      "kids"
+    ],
+    "price": 1350,
+    "oldPrice": 1800,
+    "discountPct": 25,
+    "rating": 4.4,
+    "reviewsCount": 728,
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1515604072488-5d82f6f8a9f5?w=800&q=90",
+    "description": "Remote Control Racing Car from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Safe, non-toxic materials",
+      "Easy to assemble",
+      "A great gift for kids"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 116,
+    "name": "Soft Plush Teddy Bear",
+    "slug": "soft-plush-teddy-bear-116",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "teddy",
+      "bear",
+      "toy",
+      "soft",
+      "kids"
+    ],
+    "price": 8150,
+    "oldPrice": 8150,
+    "discountPct": 0,
+    "rating": 4,
+    "reviewsCount": 221,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1560027628-8dc8fa260a1f?w=800&q=90",
+    "description": "Soft Plush Teddy Bear from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "A great gift for kids",
+      "Easy to assemble",
+      "Durable for daily play"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 117,
+    "name": "Deluxe Baby Stroller",
+    "slug": "deluxe-baby-stroller-117",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "baby",
+      "stroller",
+      "pram"
+    ],
+    "price": 4150,
+    "oldPrice": 5250,
+    "discountPct": 21,
+    "rating": 4.8,
+    "reviewsCount": 70,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=90",
+    "description": "Deluxe Baby Stroller from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Safe, non-toxic materials",
+      "Easy to assemble",
+      "Durable for daily play"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 118,
+    "name": "Educational Puzzle Set",
+    "slug": "educational-puzzle-set-118",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "kids",
+      "puzzle",
+      "toys",
+      "educational"
+    ],
+    "price": 7750,
+    "oldPrice": 7750,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 407,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1587731556938-38755b4803a6?w=800&q=90",
+    "description": "Educational Puzzle Set from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Easy to assemble",
+      "Safe, non-toxic materials",
+      "A great gift for kids"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 119,
+    "name": "Action Figure Collector Set",
+    "slug": "action-figure-collector-set-119",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "action",
+      "figure",
+      "toy",
+      "collectible"
+    ],
+    "price": 10100,
+    "oldPrice": 14030,
+    "discountPct": 28,
+    "rating": 4.1,
+    "reviewsCount": 431,
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1596461396239-f331a3a71107?w=800&q=90",
+    "description": "Action Figure Collector Set from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable for daily play",
+      "A great gift for kids",
+      "Encourages creative play"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 120,
+    "name": "Baby Feeding Bottle Set",
+    "slug": "baby-feeding-bottle-set-120",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "baby",
+      "bottle",
+      "feeding"
+    ],
+    "price": 4500,
+    "oldPrice": 4500,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 360,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=800&q=90",
+    "description": "Baby Feeding Bottle Set from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Encourages creative play",
+      "Safe, non-toxic materials",
+      "Durable for daily play"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 121,
+    "name": "Kids Bicycle 16\"",
+    "slug": "kids-bicycle-16-121",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "kids",
+      "bicycle",
+      "bike"
+    ],
+    "price": 4200,
+    "oldPrice": 5380,
+    "discountPct": 22,
+    "rating": 4.3,
+    "reviewsCount": 416,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1576435728678-68d0fbf94e91?w=800&q=90",
+    "description": "Kids Bicycle 16\" from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Encourages creative play",
+      "A great gift for kids",
+      "Easy to assemble"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 122,
+    "name": "Family Board Game Pack",
+    "slug": "family-board-game-pack-122",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "board",
+      "game",
+      "family",
+      "toys"
+    ],
+    "price": 10000,
+    "oldPrice": 10000,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 278,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?w=800&q=90",
+    "description": "Family Board Game Pack from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "A great gift for kids",
+      "Easy to assemble",
+      "Durable for daily play"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 123,
+    "name": "Creative Building Bricks Set",
+    "slug": "creative-building-bricks-set-123",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "building",
+      "bricks",
+      "toys",
+      "kids"
+    ],
+    "price": 11600,
+    "oldPrice": 15260,
+    "discountPct": 24,
+    "rating": 4.8,
+    "reviewsCount": 264,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=800&q=90",
+    "description": "Creative Building Bricks Set from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Encourages creative play",
+      "Safe, non-toxic materials",
+      "Easy to assemble"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 124,
+    "name": "Ergonomic Baby Carrier",
+    "slug": "ergonomic-baby-carrier-124",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "baby",
+      "carrier",
+      "infant"
+    ],
+    "price": 2250,
+    "oldPrice": 2250,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 720,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=800&q=90",
+    "description": "Ergonomic Baby Carrier from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Encourages creative play",
+      "A great gift for kids",
+      "Safe, non-toxic materials"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 125,
+    "name": "3-Wheel Kids Scooter",
+    "slug": "3-wheel-kids-scooter-125",
+    "category": "Toys & Baby",
+    "categoryIcon": "toys",
+    "tags": [
+      "kids",
+      "scooter",
+      "toy",
+      "ride-on"
+    ],
+    "price": 3450,
+    "oldPrice": 4660,
+    "discountPct": 26,
+    "rating": 4.1,
+    "reviewsCount": 151,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1569065035126-e37372a6c1d7?w=800&q=90",
+    "description": "3-Wheel Kids Scooter from our Toys & Baby collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable for daily play",
+      "A great gift for kids",
+      "Safe, non-toxic materials"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 126,
+    "name": "Basmati Rice 5kg",
+    "slug": "basmati-rice-5kg-126",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "rice",
+      "grocery",
+      "staple",
+      "food"
+    ],
+    "price": 530,
+    "oldPrice": 530,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 407,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=800&q=90",
+    "description": "Basmati Rice 5kg from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Resealable packaging",
+      "Great value pack size",
+      "Everyday household staple"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 127,
+    "name": "Mustard Cooking Oil 1L",
+    "slug": "mustard-cooking-oil-1l-127",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "cooking",
+      "oil",
+      "grocery",
+      "kitchen"
+    ],
+    "price": 980,
+    "oldPrice": 1400,
+    "discountPct": 30,
+    "rating": 4.6,
+    "reviewsCount": 177,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=800&q=90",
+    "description": "Mustard Cooking Oil 1L from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Resealable packaging",
+      "Sourced from trusted local suppliers",
+      "No added preservatives"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 128,
+    "name": "Mixed Lentils (Dal) 1kg",
+    "slug": "mixed-lentils-dal-1kg-128",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "lentils",
+      "dal",
+      "grocery",
+      "pulses"
+    ],
+    "price": 670,
+    "oldPrice": 670,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 706,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=800&q=90",
+    "description": "Mixed Lentils (Dal) 1kg from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Everyday household staple",
+      "No added preservatives",
+      "Resealable packaging"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 129,
+    "name": "Everyday Masala Spice Set",
+    "slug": "everyday-masala-spice-set-129",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "spices",
+      "masala",
+      "grocery",
+      "kitchen"
+    ],
+    "price": 600,
+    "oldPrice": 670,
+    "discountPct": 11,
+    "rating": 4.5,
+    "reviewsCount": 686,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1596040033229-a0b13fddb5e7?w=800&q=90",
+    "description": "Everyday Masala Spice Set from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "No added preservatives",
+      "Resealable packaging",
+      "Great value pack size"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 130,
+    "name": "CTC Black Tea 500g",
+    "slug": "ctc-black-tea-500g-130",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "tea",
+      "grocery",
+      "beverage"
+    ],
+    "price": 490,
+    "oldPrice": 490,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 555,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=800&q=90",
+    "description": "CTC Black Tea 500g from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Great value pack size",
+      "No added preservatives",
+      "Resealable packaging"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 131,
+    "name": "Instant Noodles (Pack of 12)",
+    "slug": "instant-noodles-pack-of-12-131",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "noodles",
+      "instant",
+      "grocery",
+      "snack"
+    ],
+    "price": 470,
+    "oldPrice": 710,
+    "discountPct": 34,
+    "rating": 4.5,
+    "reviewsCount": 220,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=90",
+    "description": "Instant Noodles (Pack of 12) from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Sourced from trusted local suppliers",
+      "Everyday household staple",
+      "Great value pack size"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 132,
+    "name": "Assorted Biscuits Combo Pack",
+    "slug": "assorted-biscuits-combo-pack-132",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "biscuits",
+      "snacks",
+      "grocery"
+    ],
+    "price": 740,
+    "oldPrice": 740,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 31,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?w=800&q=90",
+    "description": "Assorted Biscuits Combo Pack from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Sourced from trusted local suppliers",
+      "Great value pack size",
+      "Everyday household staple"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 133,
+    "name": "Refined Sugar 2kg",
+    "slug": "refined-sugar-2kg-133",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "sugar",
+      "grocery",
+      "staple"
+    ],
+    "price": 220,
+    "oldPrice": 340,
+    "discountPct": 35,
+    "rating": 4,
+    "reviewsCount": 590,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?w=800&q=90",
+    "description": "Refined Sugar 2kg from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Resealable packaging",
+      "No added preservatives",
+      "Sourced from trusted local suppliers"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 134,
+    "name": "Wheat Flour (Atta) 5kg",
+    "slug": "wheat-flour-atta-5kg-134",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "flour",
+      "atta",
+      "grocery",
+      "staple"
+    ],
+    "price": 480,
+    "oldPrice": 480,
+    "discountPct": 0,
+    "rating": 4.7,
+    "reviewsCount": 272,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=800&q=90",
+    "description": "Wheat Flour (Atta) 5kg from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Sourced from trusted local suppliers",
+      "No added preservatives",
+      "Everyday household staple"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 135,
+    "name": "Packaged Drinking Water (12x1L)",
+    "slug": "packaged-drinking-water-12x1l-135",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "water",
+      "bottles",
+      "grocery",
+      "beverage"
+    ],
+    "price": 290,
+    "oldPrice": 380,
+    "discountPct": 23,
+    "rating": 4.2,
+    "reviewsCount": 793,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&q=90",
+    "description": "Packaged Drinking Water (12x1L) from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Everyday household staple",
+      "No added preservatives",
+      "Great value pack size"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 136,
+    "name": "Namkeen Snacks Variety Pack",
+    "slug": "namkeen-snacks-variety-pack-136",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "snacks",
+      "namkeen",
+      "grocery"
+    ],
+    "price": 820,
+    "oldPrice": 820,
+    "discountPct": 0,
+    "rating": 4.2,
+    "reviewsCount": 232,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=800&q=90",
+    "description": "Namkeen Snacks Variety Pack from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Sourced from trusted local suppliers",
+      "Resealable packaging",
+      "No added preservatives"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 137,
+    "name": "Pure Honey 500g",
+    "slug": "pure-honey-500g-137",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "honey",
+      "grocery",
+      "natural"
+    ],
+    "price": 1100,
+    "oldPrice": 1470,
+    "discountPct": 25,
+    "rating": 4.3,
+    "reviewsCount": 291,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784e38?w=800&q=90",
+    "description": "Pure Honey 500g from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Sourced from trusted local suppliers",
+      "Great value pack size",
+      "No added preservatives"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 138,
+    "name": "Ghee (Clarified Butter) 1L",
+    "slug": "ghee-clarified-butter-1l-138",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "ghee",
+      "grocery",
+      "dairy",
+      "staple"
+    ],
+    "price": 310,
+    "oldPrice": 310,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 647,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=800&q=90",
+    "description": "Ghee (Clarified Butter) 1L from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Great value pack size",
+      "Everyday household staple",
+      "Resealable packaging"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 139,
+    "name": "Iodized Salt 1kg",
+    "slug": "iodized-salt-1kg-139",
+    "category": "Groceries & Essentials",
+    "categoryIcon": "groceries",
+    "tags": [
+      "salt",
+      "grocery",
+      "staple"
+    ],
+    "price": 650,
+    "oldPrice": 760,
+    "discountPct": 14,
+    "rating": 4.7,
+    "reviewsCount": 96,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1605491032512-b7fe30a75162?w=800&q=90",
+    "description": "Iodized Salt 1kg from our Groceries & Essentials collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "No added preservatives",
+      "Sourced from trusted local suppliers",
+      "Resealable packaging"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 140,
+    "name": "Fast Charging USB-C Cable",
+    "slug": "fast-charging-usb-c-cable-140",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "charger",
+      "cable",
+      "mobile",
+      "accessory"
+    ],
+    "price": 860,
+    "oldPrice": 860,
+    "discountPct": 0,
+    "rating": 4.3,
+    "reviewsCount": 300,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?w=800&q=90",
+    "description": "Fast Charging USB-C Cable from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Backed by 6-month warranty",
+      "Durable braided design",
+      "Wide device compatibility"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 141,
+    "name": "Wireless Optical Mouse",
+    "slug": "wireless-optical-mouse-141",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "mouse",
+      "computer",
+      "accessory"
+    ],
+    "price": 1950,
+    "oldPrice": 2670,
+    "discountPct": 27,
+    "rating": 4.4,
+    "reviewsCount": 400,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&q=90",
+    "description": "Wireless Optical Mouse from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Compact and travel-friendly",
+      "Plug-and-play compatibility",
+      "Wide device compatibility"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 142,
+    "name": "Padded Laptop Sleeve Bag",
+    "slug": "padded-laptop-sleeve-bag-142",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "laptop",
+      "bag",
+      "sleeve",
+      "accessory"
+    ],
+    "price": 2000,
+    "oldPrice": 2000,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 472,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1622850449130-f272ca5e7462?w=800&q=90",
+    "description": "Padded Laptop Sleeve Bag from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable braided design",
+      "Compact and travel-friendly",
+      "Plug-and-play compatibility"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 143,
+    "name": "Tempered Glass Screen Protector",
+    "slug": "tempered-glass-screen-protector-143",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "screen",
+      "protector",
+      "mobile",
+      "accessory"
+    ],
+    "price": 6000,
+    "oldPrice": 9230,
+    "discountPct": 35,
+    "rating": 4.1,
+    "reviewsCount": 760,
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=800&q=90",
+    "description": "Tempered Glass Screen Protector from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Plug-and-play compatibility",
+      "Backed by 6-month warranty",
+      "Wide device compatibility"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 144,
+    "name": "Bluetooth Earphones Carry Case",
+    "slug": "bluetooth-earphones-carry-case-144",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "earphones",
+      "case",
+      "mobile",
+      "accessory"
+    ],
+    "price": 2850,
+    "oldPrice": 2850,
+    "discountPct": 0,
+    "rating": 4.6,
+    "reviewsCount": 84,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=90",
+    "description": "Bluetooth Earphones Carry Case from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Backed by 6-month warranty",
+      "Compact and travel-friendly",
+      "Durable braided design"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 145,
+    "name": "7-Port USB Hub",
+    "slug": "7-port-usb-hub-145",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "usb",
+      "hub",
+      "computer",
+      "accessory"
+    ],
+    "price": 2400,
+    "oldPrice": 2760,
+    "discountPct": 13,
+    "rating": 4.6,
+    "reviewsCount": 316,
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=800&q=90",
+    "description": "7-Port USB Hub from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Wide device compatibility",
+      "Backed by 6-month warranty",
+      "Durable braided design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 146,
+    "name": "Mechanical Keyboard",
+    "slug": "mechanical-keyboard-146",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "keyboard",
+      "computer",
+      "accessory"
+    ],
+    "price": 5000,
+    "oldPrice": 5000,
+    "discountPct": 0,
+    "rating": 4.8,
+    "reviewsCount": 193,
+    "inStock": false,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=90",
+    "description": "Mechanical Keyboard from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Backed by 6-month warranty",
+      "Wide device compatibility",
+      "Durable braided design"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 147,
+    "name": "1080p Webcam",
+    "slug": "1080p-webcam-147",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "webcam",
+      "computer",
+      "accessory"
+    ],
+    "price": 5600,
+    "oldPrice": 7890,
+    "discountPct": 29,
+    "rating": 4.9,
+    "reviewsCount": 492,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1590859808308-3d2d9c515b1a?w=800&q=90",
+    "description": "1080p Webcam from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Compact and travel-friendly",
+      "Backed by 6-month warranty",
+      "Durable braided design"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 148,
+    "name": "6-Socket Power Strip with Surge Protection",
+    "slug": "6-socket-power-strip-with-surge-protection-148",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "power",
+      "strip",
+      "electronics",
+      "accessory"
+    ],
+    "price": 1600,
+    "oldPrice": 1600,
+    "discountPct": 0,
+    "rating": 4.5,
+    "reviewsCount": 412,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1583820858511-e7d59c6c9697?w=800&q=90",
+    "description": "6-Socket Power Strip with Surge Protection from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Durable braided design",
+      "Wide device compatibility",
+      "Plug-and-play compatibility"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 149,
+    "name": "Adjustable Phone Tripod Stand",
+    "slug": "adjustable-phone-tripod-stand-149",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "tripod",
+      "stand",
+      "mobile",
+      "accessory"
+    ],
+    "price": 1500,
+    "oldPrice": 2080,
+    "discountPct": 28,
+    "rating": 4.1,
+    "reviewsCount": 335,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=90",
+    "description": "Adjustable Phone Tripod Stand from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Compact and travel-friendly",
+      "Backed by 6-month warranty",
+      "Wide device compatibility"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  },
+  {
+    "id": 150,
+    "name": "65W GaN Wall Charger",
+    "slug": "65w-gan-wall-charger-150",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "wall",
+      "charger",
+      "fast",
+      "charging",
+      "accessory"
+    ],
+    "price": 5600,
+    "oldPrice": 5600,
+    "discountPct": 0,
+    "rating": 4.4,
+    "reviewsCount": 207,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=800&q=90",
+    "description": "65W GaN Wall Charger from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Plug-and-play compatibility",
+      "Backed by 6-month warranty",
+      "Wide device compatibility"
+    ],
+    "itemReviews": [],
+    "onSale": false
+  },
+  {
+    "id": 151,
+    "name": "Laptop Cooling Pad",
+    "slug": "laptop-cooling-pad-151",
+    "category": "Mobile & Computer Accessories",
+    "categoryIcon": "mobile_accessories",
+    "tags": [
+      "laptop",
+      "cooling",
+      "pad",
+      "accessory"
+    ],
+    "price": 4450,
+    "oldPrice": 6100,
+    "discountPct": 27,
+    "rating": 4.1,
+    "reviewsCount": 585,
+    "inStock": true,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=800&q=90",
+    "description": "Laptop Cooling Pad from our Mobile & Computer Accessories collection — carefully selected for quality and value, delivered fast across Nepal.",
+    "features": [
+      "Compact and travel-friendly",
+      "Plug-and-play compatibility",
+      "Backed by 6-month warranty"
+    ],
+    "itemReviews": [],
+    "onSale": true
+  }
+]
